@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **python**
 
+- 💬 Ask me about **Frontend languages ​​like React, CSS, Bootstrap**
+
+- All of my projects are available at **https://github.com/hector27gab** 
+
 - 👯 I’m looking to collaborate on **Frontend and Backend projects**
 
 - 📫 How to reach me **hectorgabriel270405@gmail.com**

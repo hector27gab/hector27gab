@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Héctor G. Prieto</h1>
 <h3 align="center">Venezuelan Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python, pygame**
 
 - 💬 Ask me about **Frontend languages ​​like React, CSS, Bootstrap**
 
